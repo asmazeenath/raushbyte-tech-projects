@@ -303,8 +303,7 @@ elif st.session_state.page == "Classify":
         with col1:
             st.subheader("🖼️ Uploaded Image")
             st.image(
-                img,
-                use_container_width=True
+                img
             )
 
         # Preprocessing
