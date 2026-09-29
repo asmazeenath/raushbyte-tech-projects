@@ -1,0 +1,13 @@
+streamlit
+google-adk
+chromadb 
+pypdf
+google-genai
+pandas
+pydantic
+python-dotenv
+torch
+torchvision
+sentence-transformers
+numpy
+protobuf==3.20.3
